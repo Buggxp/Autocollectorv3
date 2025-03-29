@@ -1,0 +1,6 @@
+web3
+requests
+psycopg2-binary
+python-telegram-bot
+discord.py
+pandas

@@ -1,0 +1,35 @@
+# Ignore Python virtual environments
+.venv/
+__pycache__/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+*.log
+logs/
+*.out
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore macOS system files
+.AppleDouble
+.LSOverride
